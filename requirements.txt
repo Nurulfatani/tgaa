@@ -1,0 +1,7 @@
+numpy
+pandas
+Pillow
+plotly
+streamlit
+streamlit_option_menu
+tensorflow==2.0.1
